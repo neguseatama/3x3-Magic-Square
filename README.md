@@ -2,6 +2,7 @@
 * Kai Iwasaki
 
 ## Overview
+* 3x3 Magic Square in C++
 * C++による3×3魔方陣（三方陣）の解法
 
 ## Description
