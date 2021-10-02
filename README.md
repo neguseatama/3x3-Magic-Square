@@ -1,5 +1,5 @@
 ## Name
-* Kai Iwasaki
+* IWASAKI Kai
 
 ## Overview
 * 3x3 Magic Square in C++
